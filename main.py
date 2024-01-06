@@ -1,1 +1,1 @@
-#ILIKEMONEYYYYY
+mgin = [oooo, test]
