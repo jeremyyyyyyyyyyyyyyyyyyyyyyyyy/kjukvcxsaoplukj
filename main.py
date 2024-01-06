@@ -1,1 +1,1 @@
-mgin = [oooo, test]
+mgin = [test, hi]
